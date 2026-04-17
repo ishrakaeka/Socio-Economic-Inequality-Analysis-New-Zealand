@@ -1,2 +1,4 @@
-This dataset provides a multidimensional view of inequality, bringing together approximately 103 variables across eight key domains. It covers economic factors such as income, wealth, and poverty, alongside social dimensions including housing, labour market outcomes, education, and health. In addition, it incorporates measures of safety, security, and broader structural inequalities like regional disparities and the gender pay gap. By integrating these domains, the dataset enables a more comprehensive understanding of how inequality is experienced across different aspects of life, supporting deeper analysis and more informed decision-making.
-This notebook presents a complete data wrangling, exploratory data analysis (EDA), and analytical investigation of a New Zealand socio-economic dataset spanning 37 years (1982–2018).
+Analyzed a multidimensional socio-economic dataset including income, wealth, poverty, housing, education, health, and labour market outcomes.
+Conducted exploratory data analysis (EDA) to examine inequality patterns across demographic and regional dimensions
+Developed visualizations and analytical summaries to support data-driven interpretation of socio-economic inequality
+
